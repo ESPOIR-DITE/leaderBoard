@@ -1,0 +1,19 @@
+{
+  "namespace": "model",
+  "name": "ScoreEvents",
+  "type": "record",
+  "fields": [
+    {
+      "name": "score",
+      "type": "double"
+    },
+    {
+      "name": "product_id",
+      "type": "long"
+    },
+    {
+      "name": "player_id",
+      "type": "long"
+    }
+  ]
+}

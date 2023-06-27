@@ -1,0 +1,15 @@
+{
+  "namespace": "model",
+  "name": "Players",
+  "type": "record",
+  "fields": [
+    {
+      "name": "id",
+      "type": "long"
+    },
+    {
+      "name": "name",
+      "type": "string"
+    }
+  ]
+}
